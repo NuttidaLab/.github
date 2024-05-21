@@ -30,7 +30,3 @@ If you believe that someone has violated this Code of Conduct, or if you have be
 ## Consequences of Violations
 
 Any member of the NuttidaLab community who violates this Code of Conduct may be subject to disciplinary action, up to and including termination of their affiliation with the lab. Disciplinary action will be taken on a case-by-case basis, taking into account the severity and nature of the violation, the impact on the community, and any mitigating circumstances.
-
-## Conclusion
-
-NuttidaLab is committed to maintaining a safe, welcoming, and inclusive community for all members of our research community. We believe that everyone has the right to work and learn in an environment that is free from discrimination, harassment, and intimidation, and we are committed to upholding these values. By following this Code of Conduct, we can ensure that NuttidaLab remains a place where everyone can thrive and succeed.
